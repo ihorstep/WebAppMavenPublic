@@ -1,6 +1,6 @@
 # README #
 
-This would normally document whatever steps are necessary to get your application up and running.
+This TESTING PUSH would normally document whatever steps are necessary to get your application up and running.
 
 ### What is this repository for? ###
 
